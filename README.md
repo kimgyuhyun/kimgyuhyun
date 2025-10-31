@@ -1,17 +1,31 @@
-Test
+## 김 규 현
 
-<!--
-**kimgyuhyun/kimgyuhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+- 새로운 기술을 배우는 것을 즐기며, 실무에 빠르게 적용합니다.
+- 팀 프로젝트에서 커뮤니케이션을 중시하고, 협업 속에서 함께 성장합니다.
+- 문제를 끝까지 파고들어 원인을 추적하고 해결하는 집요함이 강점입니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👥 팀 프로젝트
+
+- Fimer | 
+  - 역할: 
+  - 기간: 
+  - 목표: 
+
+
+🛠️ 개인 프로젝트
+
+- 애니 OTT 서비스 
+
+
+
+
+
+
+
+### 🏆 Experience & Education
+- 더조은컴퓨터아카데미 – MSA 기반 풀스택 웹 애플리케이션 개발 과정 이수 (2025.04 ~ 2025.10)
+- 김영한 데이터베이스 입문/기본 강의 수료 (2025.10)
+- 세종사이버대학교 정보보호학과 졸업
 
