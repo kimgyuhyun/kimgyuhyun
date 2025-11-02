@@ -46,3 +46,13 @@
 - 더조은컴퓨터아카데미 (2025.04 ~ 2025.10)
 - 김영한 데이터베이스 입문/기본 강의 수료 (2025.10)
 - 세종사이버대 정보보호학과 졸업
+
+---
+
+### 🎯 GitHub 활동
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimgyuhyun&theme=default&show_icons=true&hide_title=true)
+
+</div>
