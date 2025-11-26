@@ -33,7 +33,7 @@
 
 ### 👥 Team Projects
 - Fimer
-  - 역할:  전체 도메인 설계·CRUD, API·DB 설계, 결제 시스템 구현
+  - 역할:  전체 도메인 설계·CRUD, API·DB 설계, 결제 시스템 구현, 배포
   - 기간: 2025.06.12 ~ 2525 07.13 
   - 목표: 영화 태그 기반으로 영화를 추천하고 예메까지 이어지는 서비스
   - 링크: [Github](https://github.com/kimgyuhyun/fimer)
@@ -43,7 +43,7 @@
 
 ### 🛠 Personal Projects
 - 애니 OTT 서비스
-  - 역할: 개인 프로젝트(백/프론트 전반적으로 기획 및 설계)
+  - 역할: 개인 프로젝트(백/프론트 전반적으로 기획 및 설계, CI/CD 파이프라인 구축 및 배포 자동화)
   - 기간: 2025.07.26 ~ 2025. 09.03
   - 목표: 애니 실시간 시청이 가능한 멤버십 구독형 서비스
   - 링크: [Github](https://github.com/kimgyuhyun/ott-project)
