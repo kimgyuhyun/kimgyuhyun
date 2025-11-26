@@ -62,6 +62,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimgyuhyun&theme=default&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimgyuhyun&theme=default&show_icons=true)
 
 </div>
+
+---
+
+### 📊 커밋 그래프
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimgyuhyun&bg_color=000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true)
