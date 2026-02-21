@@ -1,7 +1,7 @@
 ## 끈기를 가지고 성장하는 개발자, 김규현입니다.
 
 ### 📌 About Me
-- 새로운 기술을 배우는 것을 즐기며, 실무에 빠르게 적용합니다.
+- 코드는 명확하고 일관되며 유지보수가 용이하게 작성합니다.
 - 팀 프로젝트에서 커뮤니케이션을 중시하고, 협업 속에서 함께 성장합니다.
 - 문제를 끝까지 파고들어 원인을 추적하고 해결하는 집요함이 강점입니다.
 ---
@@ -36,7 +36,7 @@
   - 역할:  전체 도메인 설계·CRUD, API·DB 설계, 결제 시스템 구현, 배포
   - 기간: 2025.06.12 ~ 2525 07.13 
   - 목표: 영화 태그 기반으로 영화를 추천하고 예메까지 이어지는 서비스
-  - 링크: [Github](https://github.com/kimgyuhyun/fimer)
+  - 링크: [Github](https://github.com/gangseunghyun/movie-project)
   - Live: [Filmer](https://filmer-movie.duckdns.org/)
 
 ---
