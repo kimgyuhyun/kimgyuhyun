@@ -33,7 +33,7 @@
 ### 👥 Team Projects
 - Fimer
   - 역할:  전체 도메인 설계·CRUD, API·DB 설계, 결제 시스템 구현, 배포
-  - 기간: 2025.06.12 ~ 2525 07.13 
+  - 기간: 2025.06.12 ~ 2025.07.13 
   - 목표: 영화 태그 기반으로 영화를 추천하고 예메까지 이어지는 서비스
   - 링크: [Github](https://github.com/gangseunghyun/movie-project)
   - Live: [Filmer](https://filmer-movie.duckdns.org/)
@@ -61,6 +61,9 @@
 - 더조은컴퓨터아카데미 (2025.04 ~ 2025.10)
 - 김영한 데이터베이스 입문/기본 강의 수료 (2025.10)
 - 세종사이버대 정보보호학과 졸업
+
+### 📜 Certifications
+- 정보처리기사 (한국산업인력공단, 2026.09)
 
 ---
 
